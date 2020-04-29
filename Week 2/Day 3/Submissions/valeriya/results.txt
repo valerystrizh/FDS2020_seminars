@@ -1,0 +1,1 @@
+{"Scikit XGBoost": {"train_error": 909.5483154925705, "test_error": 449.6523197793495, "time": 12.356240272521973}, "Dask XGBoost": {"train_error": 973.434405015054, "test_error": 1400.7515766868678, "time": 7.214126825332642}}
